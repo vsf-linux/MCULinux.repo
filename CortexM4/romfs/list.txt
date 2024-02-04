@@ -3,3 +3,4 @@ pika 1.12.5
 mpy 1.20.1
 iperf 3.16
 curl 7.81.0
+openocd 1.0
