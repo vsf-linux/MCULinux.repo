@@ -7,3 +7,4 @@ openocd 1.0
 linux_font 1.0
 pygame 0.1
 usbipd 0.0.1
+btstack 0.0.1
