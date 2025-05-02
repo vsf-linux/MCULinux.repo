@@ -6,3 +6,4 @@ curl 7.81.0
 openocd 1.0
 linux_font 1.0
 pygame 0.1
+usbipd 0.0.1
