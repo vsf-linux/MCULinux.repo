@@ -1,0 +1,2 @@
+busybox 1.37.0
+libsdl2 2.0.22
